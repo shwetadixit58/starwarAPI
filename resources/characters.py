@@ -35,3 +35,5 @@ class Character(ResourceBase):
 
 if __name__ == "__main__":
     Character().get_count()
+
+"."
